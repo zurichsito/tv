@@ -9,3 +9,5 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1676498564~acl=%2f*~data=hdntl~hmac=535403a1b907b3076887453319d0c6467abad9380728f7601ff551d2032f8b25/master-mtlf3.m3u8
 #EXTINF:-1, CANAL26
 http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1, TNTSPORTS
+https://whitecup.cam/dtvpl2.html?id=1233
