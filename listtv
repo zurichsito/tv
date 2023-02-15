@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1, TN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
 https://www.youtube.com/watch?v=6hWHWGJ1Gbw
-#EXTINF:-1, CRONICA
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.logostv.com.ar%2F2008%2F11%2Fcronica-tv.html&psig=AOvVaw1KwYYLF_kUyIgyIrMNyZE2&ust=1676507719709000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCnwf-jlv0CFQAAAAAdAAAAABAE", CRÓNICA
 https://www.youtube.com/watch?v=InSydaLSSlw
-#EXTINF:-1, LANACION
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FLa_Naci%25C3%25B3n_%252B&psig=AOvVaw1kqwhIapqp_qzPfMU8SXZG&ust=1676507745064000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKj07pKklv0CFQAAAAAdAAAAABAD", LN+
 https://www.youtube.com/watch?v=0ib0IQf3_8M
-#EXTINF:-1, A24
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FA24&psig=AOvVaw21dxjJSuwqscosnHYsSVw6&ust=1676507779766000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCglpyklv0CFQAAAAAdAAAAABAI", A24
 https://www.youtube.com/watch?v=o8JBz0XFS_k
-#EXTINF:-1, C5N
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AC5N_2017_Alternate.svg&psig=AOvVaw1CmkijFRddq0nEO8bsec_p&ust=1676507802541000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjp9Kaklv0CFQAAAAAdAAAAABAE", C5N
 https://www.youtube.com/watch?v=sV6nLwr-txA
-#EXTINF:-1, CANAL26
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ACanal_26_logo_%25282022%2529.svg&psig=AOvVaw0-BUt47yxKW1RFOrh-9_fi&ust=1676507819264000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDkha-klv0CFQAAAAAdAAAAABAE", CANAL 26
 https://www.youtube.com/watch?v=E33UVF4dx7U
-#EXTINF:-1, TVPUBLICA
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ATVP_-_Televisi%25C3%25B3n_P%25C3%25BAblica_%25282021%2529.svg&psig=AOvVaw0-ORJOEOPotMVgLACC_cXa&ust=1676507837983000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICo_reklv0CFQAAAAAdAAAAABAE", TV PÚBLICA
 https://www.youtube.com/watch?v=4Tu1_x942b4
-#EXTINF:-1, ELTRECE
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdoblaje.fandom.com%2Fes%2Fwiki%2FCategor%25C3%25ADa%3ASeries_transmitidas_por_El_Trece&psig=AOvVaw3QiOIxoemAhimKw3AV00cD&ust=1676507859610000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiKq8Kklv0CFQAAAAAdAAAAABAJ", ELTRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1, TELEFE
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3ATelefe_%2528nuevo_logo%2529.png&psig=AOvVaw13v7lgKT9vuvux09fEPpRx&ust=1676507892076000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCi69Gklv0CFQAAAAAdAAAAABAE", TELEFE
 https://www.youtube.com/watch?v=3XeGzIObrhk
-#EXTINF:-1, STAR CHANNEL
-https://www.twitch.tv/vkkurt29x
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foromedios.com%2Fgallery%2Fimage%2F8796-star-channel-2021-fondo-oscuro%2F&psig=AOvVaw3IwNdAI8_flO-y34anE243&ust=1676507921249000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjT2N-klv0CFQAAAAAdAAAAABAl", STAR CHANNEL
+https://nosequewea.tk/dtvc?get=aHR0cHM6Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzExOTYvbWFuaWZlc3QubXBk&key=N2MzOGQ5MzEwZDNjNWI0NmEzN2EzOWJiZWM2ZGQ2OGE=&key2=ZjQzMzNkZmIwZTcwOGVjOTg2NWI5YTZmZjJhOGUwNjg=
