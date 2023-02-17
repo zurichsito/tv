@@ -17,5 +17,5 @@ https://www.youtube.com/watch?v=4Tu1_x942b4
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3ATelefe_%2528nuevo_logo%2529.png&psig=AOvVaw13v7lgKT9vuvux09fEPpRx&ust=1676507892076000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCi69Gklv0CFQAAAAAdAAAAABAE", TELEFE
 https://www.youtube.com/watch?v=3XeGzIObrhk
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.foromedios.com%2Fgallery%2Fimage%2F8796-star-channel-2021-fondo-oscuro%2F&psig=AOvVaw3IwNdAI8_flO-y34anE243&ust=1676507921249000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjT2N-klv0CFQAAAAAdAAAAABAl", STAR CHANNEL
-https://nosequewea.tk/dtvc?get=aHR0cHM6Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzExOTYvbWFuaWZlc3QubXBk&key=N2MzOGQ5MzEwZDNjNWI0NmEzN2EzOWJiZWM2ZGQ2OGE=&key2=ZjQzMzNkZmIwZTcwOGVjOTg2NWI5YTZmZjJhOGUwNjg=
+#EXTINF:-1, STAR CHANNEL
+rtmp://192.168.50.105/live/stream
