@@ -18,4 +18,4 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3ATelefe_%2528nuevo_logo%2529.png&psig=AOvVaw13v7lgKT9vuvux09fEPpRx&ust=1676507892076000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCi69Gklv0CFQAAAAAdAAAAABAE", TELEFE
 https://www.youtube.com/watch?v=3XeGzIObrhk
 #EXTINF:-1, QVPC 4k
-http://192.168.50.105:1935/live/stream.playlist.m3u8
+http://192.168.50.105:11234
