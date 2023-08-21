@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1347" tvg-name="Canal 3 Formosa" tvg-logo="https://i.paste.pics/1c702369fa95a38b45eaa2855a9e1bc7.png", Formosa TV
+#EXTINF:-1 tvg-logo="https://i.paste.pics/1c702369fa95a38b45eaa2855a9e1bc7.png", Formosa TV
 https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1295" tvg-name="Lapacho TV Canal 11" tvg-logo="https://i2.paste.pics/be13659187eff4d8bf9de31dd8e29f38.png", Lapacho TV
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/be13659187eff4d8bf9de31dd8e29f38.png", Lapacho TV
 https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.logostv.com.ar%2F2008%2F11%2Fcronica-tv.html&psig=AOvVaw1KwYYLF_kUyIgyIrMNyZE2&ust=1676507719709000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCnwf-jlv0CFQAAAAAdAAAAABAE", CRÓNICA TV
-https://www.youtube.com/watch?v=InSydaLSSlw
+https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FLa_Naci%25C3%25B3n_%252B&psig=AOvVaw1kqwhIapqp_qzPfMU8SXZG&ust=1676507745064000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKj07pKklv0CFQAAAAAdAAAAABAD", LN+
 https://ythls.onrender.com/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FA24&psig=AOvVaw21dxjJSuwqscosnHYsSVw6&ust=1676507779766000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCglpyklv0CFQAAAAAdAAAAABAI", A24
@@ -17,35 +17,35 @@ https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ATVP_-_Televisi%25C3%25B3n_P%25C3%25BAblica_%25282021%2529.svg&psig=AOvVaw0-ORJOEOPotMVgLACC_cXa&ust=1676507837983000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICo_reklv0CFQAAAAAdAAAAABAE", TV PÚBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="IPNoticias.ar" tvg-logo="https://i.imgur.com/dbu9nx4.png" group-title="News",IP Noticias
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dbu9nx4.png" group-title="News",IP Noticias
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",América TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="General" user-agent="iPhone",América TV
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdoblaje.fandom.com%2Fes%2Fwiki%2FCategor%25C3%25ADa%3ASeries_transmitidas_por_El_Trece&psig=AOvVaw3QiOIxoemAhimKw3AV00cD&ust=1676507859610000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiKq8Kklv0CFQAAAAAdAAAAABAJ", ElTrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-id="1357" tvg-name="El Nueve" tvg-logo="https://i.paste.pics/13823cd098146dd48d400df104aa2d78.png", Canal Nueve
+#EXTINF:-1 tvg-logo="https://i.paste.pics/13823cd098146dd48d400df104aa2d78.png", Canal Nueve
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3ATelefe_%2528nuevo_logo%2529.png&psig=AOvVaw13v7lgKT9vuvux09fEPpRx&ust=1676507892076000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCi69Gklv0CFQAAAAAdAAAAABAE", TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
-#EXTINF:-1 tvg-id="1100" tvg-name="DEPORTV" tvg-logo="https://i2.paste.pics/7b99edf751cc110abb5fd3f040e558b8.png", DEPORTV
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/7b99edf751cc110abb5fd3f040e558b8.png", DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1359" tvg-name="Encuentro" tvg-logo="https://i.paste.pics/6ea1efdaba3065291386bc1637fc488a.png", Encuentro
+#EXTINF:-1 tvg-logo="https://i.paste.pics/6ea1efdaba3065291386bc1637fc488a.png", Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Undefined",Ciudad Magazine
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Undefined",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 tvg-id="208" tvg-name="CINE.AR" tvg-logo="https://lh3.googleusercontent.com/-Y_ezb_qUTw4/YFs6qLiovmI/AAAAAAABA3E/qQKwFSEuiUYZUscGD9oqKCe6XqB_u48qQCK8BGAsYHg/s512/2021-03-24.png", CINE.AR
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Y_ezb_qUTw4/YFs6qLiovmI/AAAAAAABA3E/qQKwFSEuiUYZUscGD9oqKCe6XqB_u48qQCK8BGAsYHg/s512/2021-03-24.png", CINE.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="General", Las Estrellas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="General", Las Estrellas
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://i.imgur.com/gwpETyS.png" group-title="Music" user-agent="iPhone", CM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UscKOIc.png" group-title="Legislative", Diputados TV
+https://ythls.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/07ki2df.png" group-title="Sports", CnAr Deportes (4k)
+https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gwpETyS.png" group-title="Music" user-agent="iPhone", CM
 #EXTVLCOPT:http-user-agent=iPhone
 http://g5.vxral-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
-#EXTINF:-1 tvg-id="DiputadosTV.ar" tvg-logo="https://i.imgur.com/UscKOIc.png" group-title="Legislative", Diputados TV
-https://ythls.onrender.com/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
-#EXTINF:-1 tvg-id="CnArDeportes.ar" tvg-logo="https://i.imgur.com/07ki2df.png" group-title="Sports", CnAr Deportes (4k)
-https://stmv1.cnarlatam.com/cnardeportes2/cnardeportes2/playlist.m3u8
-#EXTINF:-1 tvg-id="1373" tvg-name="Vorterix" tvg-logo="https://i.paste.pics/b9b18fd6b72ccc8437a43289438b1594.png", Vorterix TV
+#EXTINF:-1 tvg-logo="https://i.paste.pics/b9b18fd6b72ccc8437a43289438b1594.png", Vorterix TV
 https://ythls.onrender.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8?PlaylistM3UCL
 #EXTINF:-1, QVPC (4k)
 http://192.168.50.105:11234
