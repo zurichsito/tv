@@ -1,3 +1,71 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.paste.pics/1c702369fa95a38b45eaa2855a9e1bc7.png", Formosa TV
+https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/be13659187eff4d8bf9de31dd8e29f38.png", Lapacho TV
+https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png", TN
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s320/cronica-hd.png", CRÓNICA TV
 http://449207469170776646.ofe0229.xyz:80/play/vi115550/ueJ8QJ7ESJx/776646.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png", LN+
+http://449207469170776707.ofe0229.xyz:80/play/vi115550/ueJ8QJ7ESJx/776707.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png", A24
+http://449207469170776617.ofe0229.xyz:80/play/vi115550/ueJ8QJ7ESJx/776617.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/1200px-C5N_2017_Alternate.svg.png", C5N
+http://449207469170779416.ofe0229.xyz:80/play/vi115550/ueJ8QJ7ESJx/779416.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png", CANAL 26
+http://449207469170774059.ofe0229.xyz:80/play/vi115550/ueJ8QJ7ESJx/774059.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/2560px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png", TV PÚBLICA
+http://449207469170776759.ofe0229.xyz:80/play/vi115550/ueJ8QJ7ESJx/776759.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" user-agent="iPhone", América TV
+http://449207469170776619.ofe0229.xyz:80/play/vi115550/ueJ8QJ7ESJx/776619.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png", ElTrece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png", Canal Nueve
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png", TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/7b99edf751cc110abb5fd3f040e558b8.png", DEPORTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TYC Sports
+http://449207469170776763.ofe0229.xyz:80/play/vi115550/ueJ8QJ7ESJx/776763.ts
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png", ESPN
+http://tv.fullytv.com:8080/silvia90/90929092/7940
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png/revision/latest/scale-to-width-down/1200?cb=20121007054435", ESPN 2
+http://00322.xyz:8000/rances123/9IFBBCRBIX/145418
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3
+http://00322.xyz:8000/rances123/9IFBBCRBIX/145419
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png", ESPN 4
+http://00322.xyz:8000/rances123/9IFBBCRBIX/145420
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png", ESPN EXTRA
+http://00322.xyz:8000/rances123/9IFBBCRBIX/3014
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png", ESPN Premium
+http://449207469170776667.ofe0229.xyz:80/play/vi115550/ueJ8QJ7ESJx/776667.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png", TNT Sports
+http://449207469170776752.ofe0229.xyz:80/play/vi115550/ueJ8QJ7ESJx/776752.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/1200px-Fox_Sports_Argentina_2023.svg.png", Fox Sports
+http://449207469170776674.ofe0229.xyz:80/play/vi115550/ueJ8QJ7ESJx/776674.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1024px-Fox_Sports_3_Argentina_2023.svg.png", Fox Sports 3
+http://449207469170776676.ofe0229.xyz:80/play/vi115550/ueJ8QJ7ESJx/776676.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg", Directv Sports
+http://tv.fullytv.com:8080/silvia90/90929092/7863
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png", Directv Sports 2
+http://tv.fullytv.com:8080/silvia90/90929092/32882
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2018_03/large.5ab19e07d5e47_DirecTVSports.png.ed29a8dc91e68234c9200dfe5392bb13.png", Directv Sports +
+http://tv.fullytv.com:8080/silvia90/90929092/27879
+#EXTINF:-1 tvg-logo="http://fanc.tmsimg.com/assets/s90677_ll_h3_aa.png" group-title="Argentina", Discovery Kids
+http://449207469170776722.ofe0229.xyz:80/play/vi115550/ueJ8QJ7ESJx/776722.ts
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg", Paka Paka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="Argentina", Star Channel
+http://449207469170776739.ofe0229.xyz:80/play/vi115550/ueJ8QJ7ESJx/776739.ts
+#EXTINF:-1 tvg-logo="https://i.paste.pics/6ea1efdaba3065291386bc1637fc488a.png", Encuentro
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png", Ciudad Magazine
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", Las Estrellas
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-logo="https://xplanetiptv.com/Logotv/countries/argentina/telemundo-international-ar.png" group-title="Argentina", Telemundo
+http://449207469170776745.ofe0229.xyz:80/play/vi115550/ueJ8QJ7ESJx/776745.ts
+#EXTINF:-1, QVPC (4k)
+http://192.168.50.105:11234
